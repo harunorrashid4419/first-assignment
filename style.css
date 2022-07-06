@@ -4,7 +4,6 @@ body{
 }
 
 
-
 .banner-section {
     background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
@@ -37,7 +36,6 @@ body{
     text-decoration: none;
     border-radius: 5px;
 }
-
 
 
 
@@ -92,7 +90,6 @@ body{
 
 
 
-
 .donate-plan{
     padding-top: 110px;
 }
@@ -122,6 +119,32 @@ body{
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
+}
+
+
+
+.success-section {
+    text-align: center;
+    background: #07f6a347;
+    padding: 100px 7%;
+}
+.main-success {
+    display: flex;
+    padding-top: 60px;
+}
+.main-success .same-content{
+    width: 25%;
+}
+.main-success .same-content img{
+    margin-bottom: 15px;
+    width: 20%;
+}
+.main-success .same-content h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #273c75;
+    margin: 5px 0;
 }
 
 
