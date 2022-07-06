@@ -2,3 +2,37 @@ body{
     font-family: 'Inter', sans-serif;
     margin: 0;
 }
+
+
+
+.banner-section {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+}
+.banner-section h1{
+    font-size: 65px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin: 0;
+}
+.paragraph {
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin: 5px 0 0 0;
+}
+.button{
+    padding: 30px 0px 150px 0px;
+}
+.button a{
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background: #FF5959;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
