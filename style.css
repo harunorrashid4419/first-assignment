@@ -151,4 +151,23 @@ body{
 
 
 
-
+.socket{
+    background:#0B0D17;
+    text-align: center;
+    padding: 35px 0px;
+    margin-top: 80px;
+}
+.socket h1 {
+    color: rgb(255, 89, 89);
+    font-weight: 500;
+    font-size: 36px;
+    margin: 0px;
+    font-style: italic;
+    font-family: initial;
+}
+.socket p{
+    font-size: 14px;
+    color: #D9DBE1;
+    font-weight: 500;
+    margin-bottom: 0;
+}
