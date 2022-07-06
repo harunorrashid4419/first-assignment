@@ -27,7 +27,7 @@ body{
 .button{
     padding: 30px 0px 150px 0px;
 }
-.button a{
+.main-button{
     font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
@@ -35,4 +35,55 @@ body{
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
+}
+
+
+
+
+.black{
+    color: #707070;
+}
+.donate-section{
+    text-align: center;
+    padding-top: 100px;
+}
+.second-header{
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    margin: 0 0 0 0;
+}
+.donate-section ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 5px;
+}
+.donate-section .donate-amount{
+    padding-top: 60px;
+}
+.donate-section .donate-amount ul li a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    color: #707070;
+    background: #FAFAFA;
+    padding: 40px 15px;
+}
+#second-amount a{
+    color:#FF5959;
+    background:#FFEEEE;
+    border: 2px solid #FF5959;
+}
+.donate-section .form{
+    padding-top: 70px;
+}
+.donate-section .form-button{
+    padding-top: 35px;
+}
+.donate-section .form input{
+    width: 50%;
+    text-align: center;
+    padding: 10px 0px;
+    border: none;
+    border-bottom: 2px solid #DADADA;
 }
