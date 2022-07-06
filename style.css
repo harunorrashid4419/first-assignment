@@ -80,6 +80,11 @@ body{
 .donate-section .form-button{
     padding-top: 35px;
 }
+.donate-section .form input::placeholder{
+    font-size: 18px;
+    font-weight: 500;
+    color: #B3B3B3;
+}
 .donate-section .form input{
     width: 50%;
     text-align: center;
@@ -163,6 +168,11 @@ body{
     padding: 10px 40px;
     font-size: 16px;
     font-weight: 500;
+}
+.get-update .subscriber input::placeholder{
+    font-size: 16px;
+    font-weight: 500;
+    color: #AA9F9F;
 }
 .get-update .subscriber input{
     width: 28%;
